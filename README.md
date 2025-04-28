@@ -1,6 +1,7 @@
 [![Header](https://github.com/valentine-qa/valentine-qa/blob/main/assets/Logo-fotor-20250428181847.png)](https://www.linkedin.com/in/valentine-borodich/)
 
-## I'm a begginer QA Engineer
+## Begginer QA Engineer
+My name is Valentin, at the moment I work in a field unrelated to IT (lighting engineer), but I am already completing my self-study in functional testing. I am looking for a company where I can grow into a full-fledged employee and become a cool specialist. You can get acquainted with my works. =)
 
 ### Languages and Tools
 ![sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
