@@ -1,4 +1,4 @@
-[![Header](https://github.com/valentine-qa/valentine-qa/blob/main/assets/1.png)](https://www.linkedin.com/in/valentine-borodich/)
+[![Header](https://github.com/valentine-qa/valentine-qa/blob/main/assets/1(3).png)](https://www.linkedin.com/in/valentine-borodich/)
 
 ## 🎯 Begginer QA Engineer
 My name is Valentin, at the moment I work in a field unrelated to IT (lighting engineer), but I am already completing my self-study in functional testing. I am looking for a company where I can grow into a full-fledged employee and become a cool specialist. You can get acquainted with my works. =)
